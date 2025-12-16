@@ -8,7 +8,7 @@ The repository includes:
 
 - **Transformation Queries** – SQL queries for preparing and segmenting raw data  
 - **Visuals Queries** – SQL queries to generate aggregated metrics for visualizations  
-- **Dashboard** – Visualizations (e.g., Tableau / PowerBI / Notebook) presenting the results  
+- **Dashboard** – Visualizations presenting the results  
 - **Presentation** – Presentation materials explaining the key insights  
 
 The project analyzes a total of 6 cohorts, created based on a defined criterion (e.g., first purchase month).
