@@ -10,7 +10,6 @@ The repository includes:
 - **Visuals Queries** – SQL queries to generate aggregated metrics for visualizations  
 - **Dashboard** – Visualizations (e.g., Tableau / PowerBI / Notebook) presenting the results  
 - **Presentation** – Presentation materials explaining the key insights  
-- **Notebook(s)** – Exploratory analysis (if available)  
 
 The project analyzes a total of 6 cohorts, created based on a defined criterion (e.g., first purchase month).
 
